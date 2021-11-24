@@ -2,7 +2,8 @@
 Utility class to validate data on s3 bucket
 
 
-Libaries used in this project:
+## Libary used in this project:
 
 - Minio
-- Python 3.8
+
+## Python version - 3.8

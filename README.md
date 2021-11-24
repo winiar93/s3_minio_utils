@@ -6,4 +6,6 @@ Utility class to validate data on s3 bucket
 
 - Minio
 
+[**Recommend to read Minio docs**](https://docs.min.io/docs/python-client-quickstart-guide.html)
+
 ## Python version - 3.8
